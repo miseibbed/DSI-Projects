@@ -1,0 +1,243 @@
+year,cds,ccode,cdcode,scode,rtype,sname,dname,cname,charter_school_(y/n),percent (%)_eligible frpm_(k-12),enroll12,numtsttakr12,numerwbenchmark12,pcterwbenchmark12,nummathbenchmark12,pctmathbenchmark12,totnumbothbenchmark12,pctbothbenchmark12,enroll11,numtsttakr11,numerwbenchmark11,pcterwbenchmark11,nummathbenchmark11,pctmathbenchmark11,totnumbothbenchmark11,pctbothbenchmark11
+2018-19,1.96473E+13,19,1964733,1930924,S,Belmont Senior High,Los Angeles Unified,Los Angeles,No,0.904651163,206,102,31,30.39,14,13.73,14,13.73,219,174,42,24.14,12,6.9,11,6.32
+2018-19,1.96473E+13,19,1964733,1931476,S,Canoga Park Senior High,Los Angeles Unified,Los Angeles,No,0.886031967,227,113,54,47.79,18,15.93,18,15.93,333,275,97,35.27,37,13.45,35,12.73
+2018-19,1.96473E+13,19,1964733,1931856,S,Whitman Continuation,Los Angeles Unified,Los Angeles,No,0.657142857,18,14,,,,,,,17,5,,,,,,
+2018-19,1.96473E+13,19,1964733,6061451,S,Foshay Learning Center,Los Angeles Unified,Los Angeles,No,0.944504897,166,106,68,64.15,36,33.96,36,33.96,187,183,91,49.73,47,25.68,44,24.04
+2018-19,1.96473E+13,19,1964733,119685,S,New Open World Academy K-12,Los Angeles Unified,Los Angeles,No,0.951307484,85,68,17,25,6,8.82,6,8.82,79,79,22,27.85,10,12.66,6,7.59
+2018-19,1.96473E+13,19,1964733,1930387,S,Central High,Los Angeles Unified,Los Angeles,No,0.856887299,104,4,,,,,,,156,18,2,11.11,1,5.56,1,5.56
+2018-19,1.96473E+13,19,1964733,1938885,S,University High School Charter,Los Angeles Unified,Los Angeles,Yes,0.737921906,336,193,121,62.69,82,42.49,76,39.38,307,315,194,61.59,117,37.14,110,34.92
+2018-19,1.96473E+13,19,1964733,1996115,S,City of Angels,Los Angeles Unified,Los Angeles,No,0.73454782,292,23,14,60.87,7,30.43,7,30.43,352,83,46,55.42,16,19.28,16,19.28
+2018-19,1.96473E+13,19,1964733,122341,S,Esteban Torres East LA Performing Arts Magnet,Los Angeles Unified,Los Angeles,No,0.917073171,85,31,11,35.48,1,3.23,1,3.23,113,100,40,40,8,8,8,8
+2018-19,1.96473E+13,19,1964733,124370,S,Cesar E. Chavez Learning Academies-Arts/Theatre/Entertain Mag,Los Angeles Unified,Los Angeles,No,0.850230415,87,29,17,58.62,6,20.69,5,17.24,100,89,43,48.31,18,20.22,15,16.85
+2018-19,1.96473E+13,19,1964733,106864,S,Alliance Gertz-Ressler Richard Merkin 6-12 Complex,Los Angeles Unified,Los Angeles,Yes,0.948612539,123,123,58,47.15,30,24.39,26,21.14,132,127,79,62.2,57,44.88,48,37.8
+2018-19,1.96473E+13,19,1964733,107755,S,Port of Los Angeles High,Los Angeles Unified,Los Angeles,Yes,0.619834711,202,80,62,77.5,53,66.25,48,60,241,77,66,85.71,62,80.52,59,76.62
+2018-19,1.96473E+13,19,1964733,129536,S,Boyle Heights STEM High,Los Angeles Unified,Los Angeles,No,0.589371981,42,14,,,,,,,50,50,20,40,7,14,7,14
+2018-19,1.96473E+13,19,1964733,1930429,S,View Park Continuation,Los Angeles Unified,Los Angeles,No,0.8125,39,3,,,,,,,17,19,4,21.05,0,0,0,0
+2018-19,1.96473E+13,19,1964733,6069157,S,Berenece Carlson Home Hospital,Los Angeles Unified,Los Angeles,No,0.742063492,91,1,,,,,,,46,0,,,,,,
+2018-19,1.96473E+13,19,1964733,110304,S,Los Angeles Academy of Arts and Enterprise,Los Angeles Unified,Los Angeles,Yes,0.954703833,47,36,8,22.22,7,19.44,5,13.89,43,30,5,16.67,4,13.33,4,13.33
+2018-19,1.96473E+13,19,1964733,124529,S,Rancho Dominguez Preparatory,Los Angeles Unified,Los Angeles,No,0.792127921,129,40,16,40,9,22.5,7,17.5,127,131,46,35.11,21,16.03,18,13.74
+2018-19,1.96473E+13,19,1964733,124883,S,Animo College Preparatory Academy,Los Angeles Unified,Los Angeles,Yes,0.957356077,128,52,15,28.85,8,15.38,7,13.46,115,60,15,25,4,6.67,4,6.67
+2018-19,1.96473E+13,19,1964733,129627,S,TEACH Tech Charter High,Los Angeles Unified,Los Angeles,Yes,0.928767123,70,46,10,21.74,7,15.22,6,13.04,78,54,14,25.93,2,3.7,2,3.7
+2018-19,1.96473E+13,19,1964733,131821,S,Collegiate Charter High of Los Angeles,Los Angeles Unified,Los Angeles,Yes,0.951807229,34,34,21,61.76,15,44.12,14,41.18,40,37,21,56.76,13,35.14,12,32.43
+2018-19,1.96473E+13,19,1964733,6019715,S,Vaughn Next Century Learning Center,Los Angeles Unified,Los Angeles,Yes,0.974086379,157,102,50,49.02,23,22.55,22,21.57,172,53,38,71.7,28,52.83,25,47.17
+2018-19,1.96473E+13,19,1964733,117622,S,Magnolia Science Academy 4,Los Angeles Unified,Los Angeles,Yes,0.698863636,43,25,9,36,3,12,3,12,24,10,,,,,,
+2018-19,1.96473E+13,19,1964733,119651,S,Sun Valley High,Los Angeles Unified,Los Angeles,No,0.906005222,85,54,10,18.52,1,1.85,0,0,91,99,19,19.19,6,6.06,6,6.06
+2018-19,1.96473E+13,19,1964733,133603,S,"Girls Academic Leadership Academy, Dr. Michelle King School for Sci Tech Eng and Math",Los Angeles Unified,Los Angeles,No,0.414583333,0,0,,,,,,,47,43,24,55.81,13,30.23,13,30.23
+2018-19,1.96473E+13,19,1964733,1930486,S,Moneta Continuation,Los Angeles Unified,Los Angeles,No,0.837209302,6,1,,,,,,,13,22,4,18.18,0,0,0,0
+2018-19,1.96473E+13,19,1964733,1930551,S,San Antonio Continuation,Los Angeles Unified,Los Angeles,No,0.944099379,23,2,,,,,,,39,9,,,,,,
+2018-19,1.96473E+13,19,1964733,1930692,S,Thomas Riley High,Los Angeles Unified,Los Angeles,No,0.952380952,16,5,,,,,,,18,12,,,,,,
+2018-19,1.96473E+13,19,1964733,1931435,S,Robert H. Lewis Continuation,Los Angeles Unified,Los Angeles,No,0.901234568,19,3,,,,,,,24,9,,,,,,
+2018-19,1.96473E+13,19,1964733,1931518,S,George S. Patton Continuation,Los Angeles Unified,Los Angeles,No,0.739130435,16,1,,,,,,,20,38,4,10.53,1,2.63,1,2.63
+2018-19,1.96473E+13,19,1964733,1931534,S,Will Rogers Continuation,Los Angeles Unified,Los Angeles,No,0.950617284,83,2,,,,,,,38,22,3,13.64,2,9.09,2,9.09
+2018-19,1.96473E+13,19,1964733,102434,S,Animo South Los Angeles Charter,Los Angeles Unified,Los Angeles,Yes,0.913114754,133,42,15,35.71,7,16.67,6,14.29,141,88,29,32.95,15,17.05,14,15.91
+2018-19,1.96473E+13,19,1964733,102764,S,Richard A. Alonzo Community Day,Los Angeles Unified,Los Angeles,No,0.819148936,72,2,,,,,,,15,21,0,0,0,0,0,0
+2018-19,1.96473E+13,19,1964733,122374,S,East Los Angeles Renaissance Academy at Esteban E. Torres High No. 2,Los Angeles Unified,Los Angeles,No,0.925373134,94,41,11,26.83,2,4.88,2,4.88,72,85,23,27.06,13,15.29,12,14.12
+2018-19,1.96473E+13,19,1964733,123133,S,Alliance Susan and Eric Smidt Technology High,Los Angeles Unified,Los Angeles,Yes,0.903881701,137,135,39,28.89,21,15.56,18,13.33,135,115,46,40,29,25.22,26,22.61
+2018-19,1.96473E+13,19,1964733,108928,S,Larchmont Charter,Los Angeles Unified,Los Angeles,Yes,0.426023778,112,67,58,86.57,39,58.21,37,55.22,103,61,58,95.08,44,72.13,43,70.49
+2018-19,1.96473E+13,19,1964733,1932987,S,John H. Francis Polytechnic,Los Angeles Unified,Los Angeles,No,0.876089428,675,254,143,56.3,98,38.58,83,32.68,618,573,297,51.83,168,29.32,157,27.4
+2018-19,1.96473E+13,19,1964733,1933001,S,King/Drew Medical Magnet High,Los Angeles Unified,Los Angeles,No,0.848117422,334,192,133,69.27,63,32.81,61,31.77,343,330,199,60.3,102,30.91,94,28.48
+2018-19,1.96473E+13,19,1964733,1935121,S,Abraham Lincoln Senior High,Los Angeles Unified,Los Angeles,No,0.939962477,226,127,65,51.18,43,33.86,39,30.71,234,177,87,49.15,61,34.46,51,28.81
+2018-19,1.96473E+13,19,1964733,126482,S,Augustus F. Hawkins High A Critical Design and Gaming,Los Angeles Unified,Los Angeles,No,0.880808081,121,50,14,28,6,12,4,8,135,100,14,14,7,7,4,4
+2018-19,1.96473E+13,19,1964733,126540,S,"Science, Technology, Engineering, Arts and Mathematics at Legacy High School Complex",Los Angeles Unified,Los Angeles,No,0.894736842,138,78,40,51.28,26,33.33,23,29.49,132,117,72,61.54,39,33.33,38,32.48
+2018-19,1.96473E+13,19,1964733,101196,S,ICEF View Park Preparatory High,Los Angeles Unified,Los Angeles,Yes,0.714285714,120,73,27,36.99,7,9.59,6,8.22,170,25,12,48,2,8,2,8
+2018-19,1.96473E+13,19,1964733,110668,S,Frida Kahlo High,Los Angeles Unified,Los Angeles,No,0.959731544,28,2,,,,,,,54,22,1,4.55,0,0,0,0
+2018-19,1.96473E+13,19,1964733,111484,S,New Village Girls Academy,Los Angeles Unified,Los Angeles,Yes,0.977011494,19,9,,,,,,,14,6,,,,,,
+2018-19,1.96473E+13,19,1964733,112052,S,Panorama High,Los Angeles Unified,Los Angeles,No,0.942731278,269,142,44,30.99,17,11.97,10,7.04,278,224,61,27.23,19,8.48,18,8.04
+2018-19,1.96473E+13,19,1964733,101659,S,CATCH Prep Charter High Inc.,Los Angeles Unified,Los Angeles,Yes,0.956284153,37,33,13,39.39,3,9.09,2,6.06,41,35,13,37.14,4,11.43,3,8.57
+2018-19,1.96473E+13,19,1964733,109462,S,Maywood Academy High,Los Angeles Unified,Los Angeles,No,0.91755102,249,109,41,37.61,10,9.17,9,8.26,226,220,75,34.09,28,12.73,26,11.82
+2018-19,1.96473E+13,19,1964733,126490,S,Augustus F. Hawkins High B Community Health Advocates,Los Angeles Unified,Los Angeles,No,0.913793103,93,40,8,20,0,0,0,0,120,87,13,14.94,1,1.15,1,1.15
+2018-19,1.96473E+13,19,1964733,1930940,S,John R. Wooden High,Los Angeles Unified,Los Angeles,No,0.939393939,14,1,,,,,,,33,0,,,,,,
+2018-19,1.96473E+13,19,1964733,1931450,S,Jack London Continuation,Los Angeles Unified,Los Angeles,No,0.991666667,31,14,,,,,,,34,2,,,,,,
+2018-19,1.96473E+13,19,1964733,100677,S,High Tech LA,Los Angeles Unified,Los Angeles,Yes,0.453865337,90,63,56,88.89,45,71.43,42,66.67,91,62,58,93.55,46,74.19,46,74.19
+2018-19,1.96473E+13,19,1964733,1932623,S,El Camino Real Charter High,Los Angeles Unified,Los Angeles,Yes,0.329028636,904,306,266,86.93,204,66.67,199,65.03,863,278,263,94.6,232,83.45,228,82.01
+2018-19,1.96473E+13,19,1964733,1932920,S,Fairfax Senior High,Los Angeles Unified,Los Angeles,No,0.799671593,361,200,125,62.5,94,47,85,42.5,339,274,188,68.61,104,37.96,101,36.86
+2018-19,1.96473E+13,19,1964733,1933233,S,Sherman Oaks Center for Enriched Studies,Los Angeles Unified,Los Angeles,No,0.552946814,232,130,114,87.69,75,57.69,74,56.92,251,225,185,82.22,138,61.33,137,60.89
+2018-19,1.96473E+13,19,1964733,127803,S,Early College Academy-LA Trade Tech College,Los Angeles Unified,Los Angeles,No,0.950413223,33,3,,,,,,,37,36,11,30.56,4,11.11,3,8.33
+2018-19,1.96473E+13,19,1964733,1995794,S,Youth Opportunities Unlimited,Los Angeles Unified,Los Angeles,No,0.940711462,75,11,,,,,,,82,57,1,1.75,0,0,0,0
+2018-19,1.96473E+13,19,1964733,124560,S,Synergy Quantum Academy,Los Angeles Unified,Los Angeles,Yes,0.976491863,125,88,41,46.59,19,21.59,15,17.05,131,66,40,60.61,19,28.79,19,28.79
+2018-19,1.96473E+13,19,1964733,122358,S,Humanitas Academy of Art and Technology at Esteban E. Torres High No. 4,Los Angeles Unified,Los Angeles,No,0.935483871,79,35,17,48.57,3,8.57,3,8.57,83,70,26,37.14,7,10,6,8.57
+2018-19,1.96473E+13,19,1964733,117721,S,Contreras Learning Center-Academic Leadership Community,Los Angeles Unified,Los Angeles,No,0.940397351,84,63,12,19.05,3,4.76,3,4.76,105,84,28,33.33,18,21.43,17,20.24
+2018-19,1.96473E+13,19,1964733,112508,S,Bright Star Secondary Charter Academy,Los Angeles Unified,Los Angeles,Yes,0.916988417,117,62,39,62.9,22,35.48,21,33.87,134,86,56,65.12,21,24.42,21,24.42
+2018-19,1.96473E+13,19,1964733,132282,S,Ednovate - East College Prep,Los Angeles Unified,Los Angeles,Yes,0.858725762,79,5,,,,,,,115,4,,,,,,
+2018-19,1.96473E+13,19,1964733,1932250,S,Henry David Thoreau Continuation,Los Angeles Unified,Los Angeles,No,0.888888889,19,1,,,,,,,40,2,,,,,,
+2018-19,1.96473E+13,19,1964733,1933241,S,Gardena Senior High,Los Angeles Unified,Los Angeles,No,0.850330154,279,84,40,47.62,16,19.05,11,13.1,313,299,102,34.11,36,12.04,35,11.71
+2018-19,1.96473E+13,19,1964733,1934454,S,David Starr Jordan Senior High,Los Angeles Unified,Los Angeles,No,0.926782274,87,27,7,25.93,6,22.22,5,18.52,102,96,23,23.96,5,5.21,4,4.17
+2018-19,1.96473E+13,19,1964733,124396,S,Cesar E. Chavez Learning Academies-Academy of Scientific Exploration (ASE),Los Angeles Unified,Los Angeles,No,0.861297539,108,47,22,46.81,10,21.28,9,19.15,87,91,41,45.05,19,20.88,17,18.68
+2018-19,1.96473E+13,19,1964733,124404,S,Cesar E. Chavez Learning Academies-Technology Preparatory Academy,Los Angeles Unified,Los Angeles,No,0.91740413,62,23,5,21.74,1,4.35,1,4.35,85,76,16,21.05,3,3.95,3,3.95
+2018-19,1.96473E+13,19,1964733,124503,S,Diego Rivera Learning Complex Green Design STEAM Academy,Los Angeles Unified,Los Angeles,No,0.968932039,103,23,9,39.13,9,39.13,7,30.43,101,91,22,24.18,13,14.29,11,12.09
+2018-19,1.96473E+13,19,1964733,124511,S,Performing Arts Community at Diego Rivera Learning Complex,Los Angeles Unified,Los Angeles,No,0.957854406,125,37,10,27.03,3,8.11,3,8.11,125,103,34,33.01,14,13.59,13,12.62
+2018-19,1.96473E+13,19,1964733,126516,S,Linda Esperanza Marquez High A Huntington Park Institute of Applied Medicine,Los Angeles Unified,Los Angeles,No,0.9,144,64,34,53.13,10,15.63,9,14.06,169,159,73,45.91,36,22.64,32,20.13
+2018-19,1.96473E+13,19,1964733,1931484,S,Mission Continuation,Los Angeles Unified,Los Angeles,No,0.883116883,24,0,,,,,,,24,6,,,,,,
+2018-19,1.96473E+13,19,1964733,1931526,S,Carson Senior High,Los Angeles Unified,Los Angeles,No,0.705136758,334,92,46,50,23,25,20,21.74,336,299,139,46.49,59,19.73,54,18.06
+2018-19,1.96473E+13,19,1964733,117069,S,Helen Bernstein High,Los Angeles Unified,Los Angeles,No,0.8125,124,43,13,30.23,5,11.63,4,9.3,114,94,23,24.47,16,17.02,11,11.7
+2018-19,1.96473E+13,19,1964733,117077,S,APEX Academy,Los Angeles Unified,Los Angeles,Yes,0.940540541,82,46,7,15.22,1,2.17,1,2.17,64,40,7,17.5,1,2.5,1,2.5
+2018-19,1.96473E+13,19,1964733,117747,S,Los Angeles High School of the Arts,Los Angeles Unified,Los Angeles,No,0.909297052,108,48,21,43.75,10,20.83,10,20.83,109,89,25,28.09,10,11.24,8,8.99
+2018-19,1.96473E+13,19,1964733,111500,S,Alliance Dr. Olga Mohan High,Los Angeles Unified,Los Angeles,Yes,0.909492274,101,95,39,41.05,38,40,28,29.47,99,99,61,61.62,58,58.59,49,49.49
+2018-19,1.96473E+13,19,1964733,112870,S,Contreras Learning Center-Los Angeles School of Global Studies,Los Angeles Unified,Los Angeles,No,0.938005391,70,37,8,21.62,4,10.81,3,8.11,70,42,9,21.43,3,7.14,2,4.76
+2018-19,1.96473E+13,19,1964733,101675,S,Oscar De La Hoya Animo Charter High,Los Angeles Unified,Los Angeles,Yes,0.960720131,144,81,32,39.51,13,16.05,11,13.58,144,129,58,44.96,25,19.38,20,15.5
+2018-19,1.96473E+13,19,1964733,126623,S,Academy of Medical Arts at Carson High,Los Angeles Unified,Los Angeles,No,0.64410058,126,53,35,66.04,17,32.08,15,28.3,114,113,70,61.95,26,23.01,26,23.01
+2018-19,1.96473E+13,19,1964733,106351,S,Ivy Academia,Los Angeles Unified,Los Angeles,Yes,0.694152924,43,19,12,63.16,7,36.84,7,36.84,28,11,,,,,,
+2018-19,1.96473E+13,19,1964733,117051,S,Edward R. Roybal Learning Center,Los Angeles Unified,Los Angeles,No,0.957780458,233,97,44,45.36,22,22.68,20,20.62,184,214,62,28.97,24,11.21,21,9.81
+2018-19,1.96473E+13,19,1964733,118588,S,Alain Leroy Locke College Preparatory Academy,Los Angeles Unified,Los Angeles,Yes,0.964824121,382,98,28,28.57,10,10.2,9,9.18,387,189,46,24.34,17,8.99,14,7.41
+2018-19,1.96473E+13,19,1964733,126532,S,Linda Esperanza Marquez High C School of Social Justice,Los Angeles Unified,Los Angeles,No,0.947994056,122,60,25,41.67,9,15,6,10,170,166,45,27.11,18,10.84,17,10.24
+2018-19,1.96473E+13,19,1964733,1935519,S,Manual Arts Senior High,Los Angeles Unified,Los Angeles,No,0.899925317,377,208,67,32.21,19,9.13,17,8.17,353,302,74,24.5,24,7.95,21,6.95
+2018-19,1.96473E+13,19,1964733,1937226,S,Reseda Charter High,Los Angeles Unified,Los Angeles,Yes,0.828928047,349,294,102,34.69,50,17.01,45,15.31,326,278,110,39.57,66,23.74,60,21.58
+2018-19,1.96473E+13,19,1964733,1937424,S,Theodore Roosevelt Senior High,Los Angeles Unified,Los Angeles,No,0.94913928,306,116,45,38.79,11,9.48,11,9.48,302,269,76,28.25,15,5.58,12,4.46
+2018-19,1.96473E+13,19,1964733,112029,S,School of Business and Tourism at Contreras Learning Complex,Los Angeles Unified,Los Angeles,No,0.948955916,104,86,37,43.02,17,19.77,16,18.6,104,114,39,34.21,16,14.04,11,9.65
+2018-19,1.96473E+13,19,1964733,108878,S,CHAMPS - Charter HS of Arts-Multimedia & Performing,Los Angeles Unified,Los Angeles,Yes,0.535301669,182,84,58,69.05,31,36.9,29,34.52,193,69,56,81.16,33,47.83,32,46.38
+2018-19,1.96473E+13,19,1964733,109447,S,Santee Education Complex,Los Angeles Unified,Los Angeles,No,0.939537329,384,334,94,28.14,31,9.28,28,8.38,455,371,120,32.35,51,13.75,44,11.86
+2018-19,1.96473E+13,19,1964733,109512,S,Cal Burke High,Los Angeles Unified,Los Angeles,No,0.957219251,54,5,,,,,,,53,37,1,2.7,0,0,0,0
+2018-19,1.96473E+13,19,1964733,119966,S,Felicitas and Gonzalo Mendez High,Los Angeles Unified,Los Angeles,No,0.929118774,247,139,57,41.01,27,19.42,21,15.11,201,204,81,39.71,41,20.1,33,16.18
+2018-19,1.96473E+13,19,1964733,120071,S,New Designs Charter School-Watts,Los Angeles Unified,Los Angeles,Yes,0.9275,47,25,4,16,1,4,1,4,49,19,5,26.32,1,5.26,1,5.26
+2018-19,1.96473E+13,19,1964733,121095,S,Ambassador-Global Leadership,Los Angeles Unified,Los Angeles,No,0.920810313,68,45,23,51.11,10,22.22,10,22.22,74,66,22,33.33,10,15.15,4,6.06
+2018-19,1.96473E+13,19,1964733,122721,S,Aspire Pacific Academy,Los Angeles Unified,Los Angeles,Yes,0.934707904,97,12,,,,,,,98,14,,,,,,
+2018-19,1.96473E+13,19,1964733,1931989,S,Monterey Continuation,Los Angeles Unified,Los Angeles,No,0.898305085,20,1,,,,,,,10,30,3,10,0,0,0,0
+2018-19,1.96473E+13,19,1964733,1932847,S,Los Angeles Center for Enriched Studies,Los Angeles Unified,Los Angeles,No,0.539520958,210,118,99,83.9,85,72.03,82,69.49,225,210,193,91.9,164,78.1,163,77.62
+2018-19,1.96473E+13,19,1964733,1932888,S,Downtown Business High,Los Angeles Unified,Los Angeles,No,0.786885246,203,154,118,76.62,84,54.55,82,53.25,223,231,171,74.03,132,57.14,124,53.68
+2018-19,1.96473E+13,19,1964733,1933043,S,Benjamin Franklin Senior High,Los Angeles Unified,Los Angeles,No,0.902250352,277,158,71,44.94,58,36.71,46,29.11,306,297,147,49.49,97,32.66,86,28.96
+2018-19,1.96473E+13,19,1964733,124495,S,Communication and Technology at Diego Rivera Learning Complex,Los Angeles Unified,Los Angeles,No,0.927419355,103,43,10,23.26,6,13.95,5,11.63,102,105,21,20,9,8.57,6,5.71
+2018-19,1.96473E+13,19,1964733,124941,S,Alliance Margaret M. Bloomfield Technology Academy High,Los Angeles Unified,Los Angeles,Yes,0.893333333,114,108,43,39.81,11,10.19,11,10.19,111,98,42,42.86,20,20.41,17,17.35
+2018-19,1.96473E+13,19,1964733,1930650,S,Phineas Banning Senior High,Los Angeles Unified,Los Angeles,No,0.899515738,545,176,96,54.55,41,23.3,39,22.16,588,514,176,34.24,73,14.2,69,13.42
+2018-19,1.96473E+13,19,1964733,1931500,S,Owensmouth Continuation,Los Angeles Unified,Los Angeles,No,0.924528302,33,0,,,,,,,43,3,,,,,,
+2018-19,1.96473E+13,19,1964733,1931716,S,Lake Balboa College Preparatory Magnet K-12,Los Angeles Unified,Los Angeles,No,0.761168385,26,13,,,,,,,32,30,22,73.33,19,63.33,16,53.33
+2018-19,1.96473E+13,19,1964733,122333,S,"Math, Science, & Technology Magnet Academy at Roosevelt High",Los Angeles Unified,Los Angeles,No,0.645283019,104,60,39,65,20,33.33,19,31.67,151,131,80,61.07,48,36.64,43,32.82
+2018-19,1.96473E+13,19,1964733,1930403,S,Whitney Young Continuation,Los Angeles Unified,Los Angeles,No,0.818181818,13,0,,,,,,,18,7,,,,,,
+2018-19,1.96473E+13,19,1964733,1935865,S,James Monroe High,Los Angeles Unified,Los Angeles,No,0.879285369,510,183,80,43.72,39,21.31,33,18.03,416,361,113,31.3,40,11.08,36,9.97
+2018-19,1.96473E+13,19,1964733,1937622,S,San Fernando Senior High,Los Angeles Unified,Los Angeles,No,0.888461538,458,192,98,51.04,56,29.17,48,25,435,423,162,38.3,85,20.09,76,17.97
+2018-19,1.96473E+13,19,1964733,1938968,S,Van Nuys Senior High,Los Angeles Unified,Los Angeles,No,0.759301443,535,240,204,85,150,62.5,148,61.67,606,531,338,63.65,230,43.31,223,42
+2018-19,1.96473E+13,19,1964733,1995836,S,Palisades Charter High,Los Angeles Unified,Los Angeles,Yes,0.321862348,714,299,259,86.62,210,70.23,205,68.56,749,323,305,94.43,264,81.73,260,80.5
+2018-19,1.96473E+13,19,1964733,126474,S,"Hilda L. Solis Learning Academy School of Technology, Business and Education",Los Angeles Unified,Los Angeles,No,0.93385214,67,41,10,24.39,6,14.63,4,9.76,44,37,7,18.92,5,13.51,3,8.11
+2018-19,1.96473E+13,19,1964733,1931955,S,Ellington (Duke) High (Continuation),Los Angeles Unified,Los Angeles,No,0.945945946,20,0,,,,,,,16,14,,,,,,
+2018-19,1.96473E+13,19,1964733,1932391,S,West Hollywood Opportunity,Los Angeles Unified,Los Angeles,No,0.931034483,17,6,,,,,,,9,4,,,,,,
+2018-19,1.96473E+13,19,1964733,129585,S,NAVA College Preparatory Academy,Los Angeles Unified,Los Angeles,No,0.95361528,153,79,21,26.58,7,8.86,6,7.59,116,113,27,23.89,7,6.19,6,5.31
+2018-19,1.96473E+13,19,1964733,107003,S,Northridge Academy High,Los Angeles Unified,Los Angeles,No,0.712806026,235,103,77,74.76,43,41.75,40,38.83,197,176,92,52.27,48,27.27,45,25.57
+2018-19,1.96473E+13,19,1964733,1937838,S,San Pedro Senior High,Los Angeles Unified,Los Angeles,No,0.63969975,480,125,85,68,50,40,49,39.2,558,477,243,50.94,139,29.14,129,27.04
+2018-19,1.96473E+13,19,1964733,1938612,S,Taft Charter High,Los Angeles Unified,Los Angeles,Yes,0.617194183,498,207,154,74.4,98,47.34,94,45.41,545,458,304,66.38,193,42.14,186,40.61
+2018-19,1.96473E+13,19,1964733,1939040,S,Venice Senior High,Los Angeles Unified,Los Angeles,No,0.640625,398,197,140,71.07,97,49.24,93,47.21,463,417,248,59.47,135,32.37,127,30.46
+2018-19,1.96473E+13,19,1964733,1939784,S,Joseph Pomeroy Widney Career Preparatory and Transition Center,Los Angeles Unified,Los Angeles,No,0.752542373,284,1,,,,,,,11,0,,,,,,
+2018-19,1.96473E+13,19,1964733,125864,S,Ednovate - USC Hybrid High College Prep,Los Angeles Unified,Los Angeles,Yes,0.856060606,131,4,,,,,,,135,7,,,,,,
+2018-19,1.96473E+13,19,1964733,126508,S,Augustus F. Hawkins High C Responsible Indigenous Social Entrepreneurship,Los Angeles Unified,Los Angeles,No,0.898461538,78,28,3,10.71,1,3.57,1,3.57,92,73,8,10.96,1,1.37,1,1.37
+2018-19,1.96473E+13,19,1964733,126524,S,Linda Esperanza Marquez High B LIBRA Academy,Los Angeles Unified,Los Angeles,No,0.937411095,141,81,34,41.98,15,18.52,13,16.05,179,172,87,50.58,49,28.49,41,23.84
+2018-19,1.96473E+13,19,1964733,126557,S,Visual and Performing Arts at Legacy High School Complex,Los Angeles Unified,Los Angeles,No,0.885462555,115,60,27,45,5,8.33,5,8.33,95,98,46,46.94,13,13.27,13,13.27
+2018-19,1.96473E+13,19,1964733,1930734,S,Angel's Gate (Continuation),Los Angeles Unified,Los Angeles,No,0.7875,19,0,,,,,,,32,21,3,14.29,1,4.76,1,4.76
+2018-19,1.96473E+13,19,1964733,1930791,S,Mt. Lukens Continuation,Los Angeles Unified,Los Angeles,No,0.808510638,9,7,,,,,,,14,1,,,,,,
+2018-19,1.96473E+13,19,1964733,1931377,S,Amelia Earhart Continuation,Los Angeles Unified,Los Angeles,No,0.836363636,14,1,,,,,,,15,12,,,,,,
+2018-19,1.96473E+13,19,1964733,1931708,S,Chatsworth Charter High,Los Angeles Unified,Los Angeles,Yes,0.660409556,448,181,108,59.67,72,39.78,65,35.91,435,307,152,49.51,76,24.76,69,22.48
+2018-19,1.96473E+13,19,1964733,6061600,S,Sun Valley Magnet,Los Angeles Unified,Los Angeles,No,0.916666667,71,28,15,53.57,13,46.43,9,32.14,82,81,28,34.57,17,20.99,14,17.28
+2018-19,1.96473E+13,19,1964733,100750,S,Wallis Annenberg High,Los Angeles Unified,Los Angeles,Yes,0.948766603,98,96,28,29.17,12,12.5,9,9.38,117,5,,,,,,
+2018-19,1.96473E+13,19,1964733,121285,S,Alliance Cindy and Bill Simon Technology Academy High,Los Angeles Unified,Los Angeles,Yes,0.964566929,123,84,30,35.71,10,11.9,10,11.9,114,108,35,32.41,17,15.74,13,12.04
+2018-19,1.96473E+13,19,1964733,135855,S,Maywood Center for Enriched Studies,Los Angeles Unified,Los Angeles,No,0.910360029,90,57,29,50.88,10,17.54,8,14.04,119,112,35,31.25,18,16.07,18,16.07
+2018-19,1.96473E+13,19,1964733,1930619,S,Harold McAlister High (Opportunity),Los Angeles Unified,Los Angeles,No,0.935483871,43,3,,,,,,,28,4,,,,,,
+2018-19,1.96473E+13,19,1964733,6058002,S,Robert Fulton College Preparatory,Los Angeles Unified,Los Angeles,No,0.930699931,144,57,24,42.11,12,21.05,11,19.3,169,180,66,36.67,23,12.78,21,11.67
+2018-19,1.96473E+13,19,1964733,1931336,S,Cheviot Hills Continuation,Los Angeles Unified,Los Angeles,No,0.682926829,25,9,,,,,,,35,6,,,,,,
+2018-19,1.96473E+13,19,1964733,1931864,S,Grover Cleveland Charter High,Los Angeles Unified,Los Angeles,Yes,0.651685393,651,274,207,75.55,141,51.46,134,48.91,748,582,404,69.42,268,46.05,262,45.02
+2018-19,1.96473E+13,19,1964733,133272,S,PUC Triumph Charter Academy and PUC Triumph Charter High,Los Angeles Unified,Los Angeles,Yes,0.682775713,116,61,27,44.26,14,22.95,11,18.03,92,66,32,48.48,21,31.82,18,27.27
+2018-19,1.96473E+13,19,1964733,133868,S,Rise Kohyang High,Los Angeles Unified,Los Angeles,Yes,0.888888889,0,0,,,,,,,81,22,21,95.45,19,86.36,18,81.82
+2018-19,1.96473E+13,19,1964733,127217,S,Alliance Alice M. Baxter College-Ready High,Los Angeles Unified,Los Angeles,Yes,0.802013423,61,7,,,,,,,81,85,44,51.76,30,35.29,24,28.24
+2018-19,1.96473E+13,19,1964733,1932128,S,"Crenshaw Science, Technology, Engineering, Math and Medicine Magnet",Los Angeles Unified,Los Angeles,No,0.822666667,216,72,18,25,2,2.78,1,1.39,217,158,35,22.15,8,5.06,5,3.16
+2018-19,1.96473E+13,19,1964733,1932342,S,Evergreen Continuation,Los Angeles Unified,Los Angeles,No,0.876712329,29,9,,,,,,,19,3,,,,,,
+2018-19,1.96473E+13,19,1964733,6016885,S,Elizabeth Learning Center,Los Angeles Unified,Los Angeles,No,0.933714286,129,76,30,39.47,11,14.47,9,11.84,203,190,70,36.84,15,7.89,11,5.79
+2018-19,1.96473E+13,19,1964733,111658,S,Alliance Marc & Eva Stern Math and Science,Los Angeles Unified,Los Angeles,Yes,0.855024712,141,139,84,60.43,52,37.41,49,35.25,155,147,98,66.67,65,44.22,61,41.5
+2018-19,1.96473E+13,19,1964733,119727,S,Ramon C. Cortines School of Visual and Performing Arts,Los Angeles Unified,Los Angeles,No,0.716503268,342,211,146,69.19,66,31.28,62,29.38,326,289,160,55.36,69,23.88,62,21.45
+2018-19,1.96473E+13,19,1964733,120808,S,Dorothy V. Johnson Community Day,Los Angeles Unified,Los Angeles,No,0.987341772,21,6,,,,,,,15,5,,,,,,
+2018-19,1.96473E+13,19,1964733,133298,S,PUC CALS Middle School and Early College High,Los Angeles Unified,Los Angeles,Yes,0.831702544,58,36,18,50,16,44.44,13,36.11,69,49,21,42.86,12,24.49,11,22.45
+2018-19,1.96473E+13,19,1964733,102913,S,Middle College High,Los Angeles Unified,Los Angeles,No,0.853960396,88,66,44,66.67,19,28.79,17,25.76,91,91,65,71.43,22,24.18,22,24.18
+2018-19,1.96473E+13,19,1964733,127787,S,Humanities and Arts (HARTS) Academy of Los Angeles,Los Angeles Unified,Los Angeles,No,0.808353808,105,31,20,64.52,9,29.03,9,29.03,104,96,31,32.29,7,7.29,7,7.29
+2018-19,1.96473E+13,19,1964733,127910,S,Camino Nuevo High #2,Los Angeles Unified,Los Angeles,Yes,0.954347826,112,68,32,47.06,12,17.65,10,14.71,116,89,44,49.44,14,15.73,12,13.48
+2018-19,1.96473E+13,19,1964733,1932334,S,Jane Addams Continuation,Los Angeles Unified,Los Angeles,No,0.803149606,40,2,,,,,,,41,1,,,,,,
+2018-19,1.96473E+13,19,1964733,111625,S,Animo Watts College Preparatory Academy,Los Angeles Unified,Los Angeles,Yes,0.929453263,128,44,25,56.82,11,25,11,25,127,119,44,36.97,12,10.08,8,6.72
+2018-19,1.96473E+13,19,1964733,117911,S,New Millennium Secondary,Los Angeles Unified,Los Angeles,Yes,0.615384615,42,31,8,25.81,4,12.9,3,9.68,40,7,,,,,,
+2018-19,1.96473E+13,19,1964733,119693,S,UCLA Community K-12,Los Angeles Unified,Los Angeles,No,0.90964467,91,54,32,59.26,22,40.74,21,38.89,113,117,59,50.43,34,29.06,32,27.35
+2018-19,1.96473E+13,19,1964733,1931047,S,Birmingham Community Charter High,Los Angeles Unified,Los Angeles,Yes,0.833491311,798,698,286,40.97,162,23.21,139,19.91,744,639,310,48.51,163,25.51,150,23.47
+2018-19,1.96473E+13,19,1964733,1931385,S,Albert Einstein Continuation,Los Angeles Unified,Los Angeles,No,0.984848485,19,2,,,,,,,16,31,2,6.45,1,3.23,1,3.23
+2018-19,1.96473E+13,19,1964733,1937085,S,Ramona Opportunity High,Los Angeles Unified,Los Angeles,No,0.979166667,8,0,,,,,,,13,14,,,,,,
+2018-19,1.96473E+13,19,1964733,126136,S,Math and Science College Preparatory,Los Angeles Unified,Los Angeles,Yes,0.927140255,155,27,21,77.78,14,51.85,13,48.15,135,132,69,52.27,43,32.58,37,28.03
+2018-19,1.96473E+13,19,1964733,122382,S,Engineering and Technology Academy at Esteban E. Torres High No. 3,Los Angeles Unified,Los Angeles,No,0.959537572,72,48,12,25,4,8.33,3,6.25,79,77,17,22.08,10,12.99,8,10.39
+2018-19,1.96473E+13,19,1964733,124487,S,Public Service Community at Diego Rivera Learning Complex,Los Angeles Unified,Los Angeles,No,0.948214286,141,33,14,42.42,3,9.09,2,6.06,120,104,20,19.23,14,13.46,13,12.5
+2018-19,1.96473E+13,19,1964733,120360,S,Daniel Pearl Journalism & Communications Magnet,Los Angeles Unified,Los Angeles,No,0.621212121,71,42,35,83.33,20,47.62,20,47.62,88,87,63,72.41,27,31.03,27,31.03
+2018-19,1.96473E+13,19,1964733,124479,S,Dr. Maya Angelou Community High,Los Angeles Unified,Los Angeles,No,0.94534413,147,97,27,27.84,6,6.19,6,6.19,234,224,28,12.5,6,2.68,4,1.79
+2018-19,1.96473E+13,19,1964733,101683,S,Renaissance Arts Academy,Los Angeles Unified,Los Angeles,Yes,0.619133574,44,14,,,,,,,47,30,24,80,13,43.33,13,43.33
+2018-19,1.96473E+13,19,1964733,106831,S,Animo Venice Charter High,Los Angeles Unified,Los Angeles,Yes,0.885950413,132,24,16,66.67,10,41.67,10,41.67,160,134,69,51.49,37,27.61,32,23.88
+2018-19,1.96473E+13,19,1964733,106997,S,Orthopaedic Hospital,Los Angeles Unified,Los Angeles,No,0.928486293,168,134,87,64.93,44,32.84,39,29.1,180,189,112,59.26,68,35.98,62,32.8
+2018-19,1.96473E+13,19,1964733,100800,S,Central City Value,Los Angeles Unified,Los Angeles,Yes,0.950854701,105,83,28,33.73,11,13.25,10,12.05,98,48,27,56.25,12,25,11,22.92
+2018-19,1.96473E+13,19,1964733,1931971,S,John Hope Continuation,Los Angeles Unified,Los Angeles,No,0.986842105,13,0,,,,,,,28,16,2,12.5,0,0,0,0
+2018-19,1.96473E+13,19,1964733,1934157,S,Huntington Park Senior High,Los Angeles Unified,Los Angeles,No,0.930785869,301,130,41,31.54,14,10.77,13,10,343,311,96,30.87,45,14.47,32,10.29
+2018-19,1.96473E+13,19,1964733,122366,S,Social Justice Leadership Academy at Esteban E. Torres High No. 5,Los Angeles Unified,Los Angeles,No,0.929230769,90,55,23,41.82,4,7.27,3,5.45,71,71,11,15.49,6,8.45,4,5.63
+2018-19,1.96473E+13,19,1964733,123141,S,Alliance Ted K. Tajima High,Los Angeles Unified,Los Angeles,Yes,0.9325,59,57,28,49.12,19,33.33,17,29.82,111,108,50,46.3,34,31.48,29,26.85
+2018-19,1.96473E+13,19,1964733,132126,S,Bert Corona Charter High,Los Angeles Unified,Los Angeles,Yes,0.810699588,43,29,8,27.59,4,13.79,3,10.34,78,66,18,27.27,9,13.64,6,9.09
+2018-19,1.96473E+13,19,1964733,117762,S,School for the Visual Arts and Humanities,Los Angeles Unified,Los Angeles,No,0.938356164,87,64,25,39.06,5,7.81,3,4.69,94,87,23,26.44,13,14.94,8,9.2
+2018-19,1.96473E+13,19,1964733,108894,S,Alliance Judy Ivie Burton Technology Academy High,Los Angeles Unified,Los Angeles,Yes,0.98677686,138,138,58,42.03,36,26.09,31,22.46,149,144,86,59.72,67,46.53,59,40.97
+2018-19,1.96473E+13,19,1964733,109454,S,South East High,Los Angeles Unified,Los Angeles,No,0.911764706,368,220,128,58.18,45,20.45,43,19.55,490,421,220,52.26,96,22.8,88,20.9
+2018-19,1.96473E+13,19,1964733,1935568,S,John Marshall Senior High,Los Angeles Unified,Los Angeles,No,0.732885342,552,395,280,70.89,183,46.33,177,44.81,578,493,343,69.57,248,50.3,244,49.49
+2018-19,1.96473E+13,19,1964733,1939107,S,Verdugo Hills Senior High,Los Angeles Unified,Los Angeles,No,0.748650732,327,108,79,73.15,54,50,52,48.15,306,269,161,59.85,94,34.94,87,32.34
+2018-19,1.96473E+13,19,1964733,1939941,S,John F. Kennedy High,Los Angeles Unified,Los Angeles,No,0.751383567,463,245,157,64.08,83,33.88,78,31.84,544,506,269,53.16,177,34.98,162,32.02
+2018-19,1.96473E+13,19,1964733,122606,S,PUC Lakeview Charter High,Los Angeles Unified,Los Angeles,Yes,0.79868709,100,76,42,55.26,21,27.63,19,25,102,73,53,72.6,33,45.21,31,42.47
+2018-19,1.96473E+13,19,1964733,101329,S,William J. Johnston Community Day,Los Angeles Unified,Los Angeles,No,0.966386555,8,0,,,,,,,14,8,,,,,,
+2018-19,1.96473E+13,19,1964733,6019475,S,Thirty-Second Street USC Performing Arts,Los Angeles Unified,Los Angeles,No,0.895043732,73,57,31,54.39,12,21.05,11,19.3,77,73,40,54.79,25,34.25,22,30.14
+2018-19,1.96473E+13,19,1964733,1932318,S,Eagle Tree Continuation,Los Angeles Unified,Los Angeles,No,0.782608696,57,0,,,,,,,7,22,1,4.55,0,0,0,0
+2018-19,1.96473E+13,19,1964733,1933118,S,John C. Fremont Senior High,Los Angeles Unified,Los Angeles,No,0.947474747,402,85,35,41.18,11,12.94,9,10.59,452,465,111,23.87,28,6.02,25,5.38
+2018-19,1.96473E+13,19,1964733,1933795,S,Ulysses S. Grant Senior High,Los Angeles Unified,Los Angeles,No,0.843403827,432,151,92,60.93,61,40.4,55,36.42,401,373,190,50.94,104,27.88,94,25.2
+2018-19,1.96473E+13,19,1964733,1934033,S,Hollywood Senior High,Los Angeles Unified,Los Angeles,No,0.861580014,334,174,114,65.52,65,37.36,61,35.06,320,309,179,57.93,97,31.39,89,28.8
+2018-19,1.96473E+13,19,1964733,1934371,S,Thomas Jefferson Senior High,Los Angeles Unified,Los Angeles,No,0.936335404,116,68,16,23.53,7,10.29,6,8.82,163,131,26,19.85,12,9.16,9,6.87
+2018-19,1.96473E+13,19,1964733,1930866,S,Bell Senior High,Los Angeles Unified,Los Angeles,No,0.919832985,575,318,164,51.57,82,25.79,75,23.58,554,543,228,41.99,123,22.65,113,20.81
+2018-19,1.96473E+13,19,1964733,1931468,S,Metropolitan Continuation,Los Angeles Unified,Los Angeles,No,0.948275862,17,4,,,,,,,13,19,3,15.79,0,0,0,0
+2018-19,1.96473E+13,19,1964733,1931682,S,Zane Grey Continuation,Los Angeles Unified,Los Angeles,No,0.919191919,25,2,,,,,,,26,8,,,,,,
+2018-19,1.96473E+13,19,1964733,1936160,S,Nathaniel Narbonne Senior High,Los Angeles Unified,Los Angeles,No,0.758272059,543,223,115,51.57,74,33.18,69,30.94,514,434,177,40.78,104,23.96,92,21.2
+2018-19,1.96473E+13,19,1964733,1936350,S,North Hollywood Senior High,Los Angeles Unified,Los Angeles,No,0.712133228,573,242,161,66.53,99,40.91,91,37.6,545,533,309,57.97,194,36.4,186,34.9
+2018-19,1.96473E+13,19,1964733,1938554,S,Sylmar Charter High,Los Angeles Unified,Los Angeles,Yes,0.835051546,361,182,89,48.9,53,29.12,45,24.73,352,317,129,40.69,69,21.77,60,18.93
+2018-19,1.96473E+13,19,1964733,106849,S,Animo Pat Brown,Los Angeles Unified,Los Angeles,Yes,0.963333333,131,103,44,42.72,23,22.33,19,18.45,140,101,41,40.59,24,23.76,20,19.8
+2018-19,1.96473E+13,19,1964733,107011,S,International Studies Learning Center at Legacy High School Complex,Los Angeles Unified,Los Angeles,No,0.642607683,84,61,40,65.57,23,37.7,21,34.43,94,91,57,62.64,35,38.46,30,32.97
+2018-19,1.96473E+13,19,1964733,132084,S,Alliance Marine - Innovation and Technology 6-12 Complex,Los Angeles Unified,Los Angeles,Yes,0.882673943,0,1,,,,,,,51,50,25,50,14,28,10,20
+2018-19,1.96473E+13,19,1964733,127894,S,Valor Academy High,Los Angeles Unified,Los Angeles,Yes,0.92,122,45,15,33.33,9,20,7,15.56,122,19,11,57.89,7,36.84,6,31.58
+2018-19,1.96473E+13,19,1964733,124388,S,Cesar E. Chavez Learning Academies-Social Justice Humanitas Academy,Los Angeles Unified,Los Angeles,No,0.913627639,96,67,22,32.84,14,20.9,11,16.42,132,133,57,42.86,17,12.78,14,10.53
+2018-19,1.96473E+13,19,1964733,124891,S,Alliance Renee and Meyer Luskin Academy High,Los Angeles Unified,Los Angeles,Yes,0.923371648,131,127,44,34.65,20,15.75,15,11.81,124,115,34,29.57,24,20.87,21,18.26
+2018-19,1.96473E+13,19,1964733,124933,S,PUC Early College Academy for Leaders and Scholars (ECALS),Los Angeles Unified,Los Angeles,Yes,0.668587896,81,37,17,45.95,11,29.73,11,29.73,100,68,31,45.59,21,30.88,17,25
+2018-19,1.96473E+13,19,1964733,1932540,S,Eagle Rock High,Los Angeles Unified,Los Angeles,No,0.570056744,420,251,198,78.88,135,53.78,134,53.39,374,330,235,71.21,165,50,160,48.48
+2018-19,1.96473E+13,19,1964733,111492,S,Alliance Patti And Peter Neuwirth Leadership Academy,Los Angeles Unified,Los Angeles,Yes,0.96625222,131,121,39,32.23,31,25.62,26,21.49,136,129,58,44.96,33,25.58,29,22.48
+2018-19,1.96473E+13,19,1964733,111575,S,Animo Ralph Bunche Charter High,Los Angeles Unified,Los Angeles,Yes,0.985294118,147,80,29,36.25,10,12.5,9,11.25,143,102,49,48.04,19,18.63,17,16.67
+2018-19,1.96473E+13,19,1964733,1931393,S,Highland Park Continuation,Los Angeles Unified,Los Angeles,No,0.909090909,15,8,,,,,,,28,20,3,15,1,5,1,5
+2018-19,1.96473E+13,19,1964733,1931559,S,Stoney Point Continuation,Los Angeles Unified,Los Angeles,No,0.879120879,23,0,,,,,,,25,2,,,,,,
+2018-19,1.96473E+13,19,1964733,1996610,S,Los Angeles Leadership Academy,Los Angeles Unified,Los Angeles,Yes,0.841269841,44,46,17,36.96,5,10.87,5,10.87,64,39,17,43.59,4,10.26,3,7.69
+2018-19,1.96473E+13,19,1964733,102541,S,New Designs Charter,Los Angeles Unified,Los Angeles,Yes,0.914619883,86,67,35,52.24,15,22.39,12,17.91,107,41,17,41.46,11,26.83,8,19.51
+2018-19,1.96473E+13,19,1964733,111583,S,Animo Jackie Robinson High,Los Angeles Unified,Los Angeles,Yes,0.981996727,148,116,33,28.45,31,26.72,22,18.97,150,110,49,44.55,31,28.18,26,23.64
+2018-19,1.96473E+13,19,1964733,111641,S,Alliance Ouchi-O'Donovan 6-12 Complex,Los Angeles Unified,Los Angeles,Yes,0.91350826,130,126,54,42.86,23,18.25,22,17.46,155,140,67,47.86,39,27.86,37,26.43
+2018-19,1.96473E+13,19,1964733,112045,S,Arleta High,Los Angeles Unified,Los Angeles,No,0.873511905,311,147,46,31.29,27,18.37,21,14.29,359,298,114,38.26,64,21.48,57,19.13
+2018-19,1.96473E+13,19,1964733,114850,S,West Adams Preparatory High,Los Angeles Unified,Los Angeles,No,0.937037037,252,173,64,36.99,26,15.03,21,12.14,362,311,82,26.37,35,11.25,29,9.32
+2018-19,1.96473E+13,19,1964733,115253,S,Discovery Charter Preparatory School #2,Los Angeles Unified,Los Angeles,Yes,0.727969349,60,42,12,28.57,4,9.52,4,9.52,48,9,,,,,,
+2018-19,1.96473E+13,19,1964733,117598,S,Alliance Piera Barbaglia Shaheen Health Services Academy,Los Angeles Unified,Los Angeles,Yes,0.958984375,105,85,20,23.53,6,7.06,5,5.88,135,66,28,42.42,14,21.21,11,16.67
+2018-19,1.96473E+13,19,1964733,117606,S,Alliance Leichtman-Levine Family Foundation Environmental Science High,Los Angeles Unified,Los Angeles,Yes,0.864919355,128,111,62,55.86,37,33.33,31,27.93,107,96,68,70.83,38,39.58,36,37.5
+2018-19,1.96473E+13,19,1964733,1938307,S,South Gate Senior High,Los Angeles Unified,Los Angeles,No,0.888387362,528,250,135,54,65,26,60,24,586,539,214,39.7,75,13.91,68,12.62
+2018-19,1.96473E+13,19,1964733,1939859,S,Woodrow Wilson Senior High,Los Angeles Unified,Los Angeles,No,0.908005618,317,174,89,51.15,22,12.64,21,12.07,301,290,105,36.21,56,19.31,47,16.21
+2018-19,1.96473E+13,19,1964733,108936,S,Alliance Collins Family College-Ready High,Los Angeles Unified,Los Angeles,Yes,0.939597315,141,138,71,51.45,29,21.01,29,21.01,150,147,88,59.86,43,29.25,41,27.89
+2018-19,1.96473E+13,19,1964733,126615,S,Academies of Education and Empowerment at Carson High,Los Angeles Unified,Los Angeles,No,0.703153989,126,48,23,47.92,12,25,11,22.92,145,136,65,47.79,15,11.03,15,11.03
+2018-19,1.96473E+13,19,1964733,127795,S,Contreras Learning Center-School of Social Justice,Los Angeles Unified,Los Angeles,No,0.95010846,90,92,20,21.74,9,9.78,8,8.7,100,104,25,24.04,9,8.65,8,7.69
+2018-19,1.96473E+13,19,1964733,1930783,S,Phoenix Continuation,Los Angeles Unified,Los Angeles,No,0.672727273,7,1,,,,,,,29,27,5,18.52,1,3.7,1,3.7
+2018-19,1.96473E+13,19,1964733,1931930,S,Dan M. Issacs Avalon High,Los Angeles Unified,Los Angeles,No,0.93902439,25,6,,,,,,,33,8,,,,,,
+2018-19,1.96473E+13,19,1964733,1933746,S,Granada Hills Charter High,Los Angeles Unified,Los Angeles,Yes,0.522988506,1120,531,475,89.45,390,73.45,377,71,1218,522,493,94.44,447,85.63,439,84.1
+2018-19,1.96473E+13,19,1964733,1933852,S,Alexander Hamilton Senior High,Los Angeles Unified,Los Angeles,No,0.653727902,585,323,217,67.18,119,36.84,116,35.91,601,541,349,64.51,172,31.79,171,31.61
+2018-19,1.96473E+13,19,1964733,1935352,S,Los Angeles Senior High,Los Angeles Unified,Los Angeles,No,0.8136,242,229,82,35.81,47,20.52,42,18.34,287,232,79,34.05,25,10.78,23,9.91
+2018-19,1.96473E+13,19,1964733,6116750,S,PUC Community Charter Middle and PUC Community Charter Early College High,Los Angeles Unified,Los Angeles,Yes,0.730964467,89,62,27,43.55,16,25.81,15,24.19,106,90,57,63.33,42,46.67,38,42.22
+2018-19,1.96473E+13,19,1964733,130997,S,Sylmar Biotech Health Academy,Los Angeles Unified,Los Angeles,No,0.996254682,57,30,8,26.67,3,10,2,6.67,63,60,24,40,3,5,2,3.33
+2018-19,1.96473E+13,19,1964733,1931997,S,Odyssey Continuation,Los Angeles Unified,Los Angeles,No,0.833333333,23,1,,,,,,,30,31,5,16.13,2,6.45,1,3.23
+2018-19,1.96473E+13,19,1964733,1932383,S,Susan Miller Dorsey Senior High,Los Angeles Unified,Los Angeles,No,0.761210762,230,93,22,23.66,5,5.38,4,4.3,223,127,34,26.77,7,5.51,7,5.51
+2018-19,1.96473E+13,19,1964733,1932821,S,Boyle Heights Continuation,Los Angeles Unified,Los Angeles,No,0.957142857,8,0,,,,,,,15,17,0,0,0,0,0,0
+2018-19,1.96473E+13,19,1964733,1933381,S,James A. Garfield Senior High,Los Angeles Unified,Los Angeles,No,0.917866874,581,318,151,47.48,111,34.91,91,28.62,627,602,271,45.02,153,25.42,137,22.76
+2018-19,1.96473E+13,19,1964733,112037,S,East Valley Senior High,Los Angeles Unified,Los Angeles,No,0.856321839,141,82,20,24.39,8,9.76,7,8.54,132,103,25,24.27,7,6.8,5,4.85
+2018-19,1.96473E+13,19,1964733,1939479,S,WESM Health/Sports Medicine,Los Angeles Unified,Los Angeles,No,0.729699666,182,106,63,59.43,32,30.19,29,27.36,236,180,97,53.89,42,23.33,39,21.67
+2018-19,1.96473E+13,19,1964733,102137,S,Aggeler Community Day,Los Angeles Unified,Los Angeles,No,1,30,0,,,,,,,9,2,,,,,,
+2018-19,1.96473E+13,19,1964733,102921,S,Dr. Richard A. Vladovic Harbor Teacher Preparation Academy,Los Angeles Unified,Los Angeles,No,0.620985011,118,97,86,88.66,63,64.95,62,63.92,105,103,98,95.15,89,86.41,87,84.47
+2018-19,1.96473E+13,19,1964733,106435,S,Camino Nuevo Charter High,Los Angeles Unified,Los Angeles,Yes,0.954545455,86,70,23,32.86,4,5.71,3,4.29,67,48,19,39.58,6,12.5,6,12.5
+2018-19,1.96473E+13,19,1964733,137612,S,Valley International Preparatory High,Los Angeles Unified,Los Angeles,Yes,0.242718447,71,38,33,86.84,18,47.37,18,47.37,57,29,27,93.1,21,72.41,21,72.41
+2018-19,1.96473E+13,19,1964733,124412,S,Sonia Sotomayor Arts and Sciences Academies,Los Angeles Unified,Los Angeles,No,0.947154472,108,84,28,33.33,11,13.1,9,10.71,115,102,36,35.29,8,7.84,8,7.84
+2018-19,1.96473E+13,19,1964733,132027,S,University Preparatory Value High,Los Angeles Unified,Los Angeles,Yes,0.908141962,113,97,34,35.05,15,15.46,14,14.43,114,102,27,26.47,16,15.69,15,14.71
+2018-19,1.96473E+13,19,1964733,1930973,S,Simon Rodia Continuation,Los Angeles Unified,Los Angeles,No,0.931578947,30,0,,,,,,,91,15,3,20,0,0,0,0
+2018-19,1.96473E+13,19,1964733,1931690,S,Independence Continuation,Los Angeles Unified,Los Angeles,No,0.732142857,32,1,,,,,,,35,0,,,,,,
+2018-19,1.96473E+13,19,1964733,121293,S,Alliance Tennenbaum Family Technology High,Los Angeles Unified,Los Angeles,Yes,0.882154882,89,18,10,55.56,5,27.78,5,27.78,82,42,25,59.52,7,16.67,6,14.29
+2018-19,1.96473E+13,19,1964733,124362,S,Valley Academy of Arts and Sciences,Los Angeles Unified,Los Angeles,No,0.64953271,262,107,57,53.27,28,26.17,25,23.36,270,237,121,51.05,46,19.41,41,17.3
+2018-19,1.96473E+13,19,1964733,1939305,S,George Washington Preparatory High,Los Angeles Unified,Los Angeles,No,0.9004914,197,60,15,25,4,6.67,2,3.33,243,194,54,27.84,13,6.7,12,6.19
+2018-19,1.96473E+13,19,1964733,1995448,S,Francisco Bravo Medical Magnet High,Los Angeles Unified,Los Angeles,No,0.853304675,403,274,198,72.26,124,45.26,115,41.97,429,439,319,72.67,234,53.3,219,49.89
+2018-19,1.96473E+13,19,1964733,125989,S,STEM Academy at Bernstein High,Los Angeles Unified,Los Angeles,No,0.976576577,124,69,39,56.52,17,24.64,13,18.84,131,119,62,52.1,39,32.77,32,26.89
+2018-19,1.96473E+13,19,1964733,126573,S,Academy for Multilingual Arts and Science at Mervyn M. Dymally High,Los Angeles Unified,Los Angeles,No,0.911684783,141,31,6,19.35,2,6.45,2,6.45,200,147,25,17.01,2,1.36,2,1.36
+2018-19,1.96473E+13,19,1964733,1930296,S,Harris Newmark Continuation,Los Angeles Unified,Los Angeles,No,0.965753425,34,0,,,,,,,44,26,3,11.54,0,0,0,0
+2018-19,1.96473E+13,19,1964733,1930577,S,Pueblo de Los Angeles Continuation,Los Angeles Unified,Los Angeles,No,0.915492958,44,1,,,,,,,4,17,0,0,0,0,0,0
+2018-19,1.96473E+13,19,1964733,116509,S,Alliance Morgan McKinzie High,Los Angeles Unified,Los Angeles,Yes,0.926940639,73,16,6,37.5,2,12.5,1,6.25,77,0,,,,,,
